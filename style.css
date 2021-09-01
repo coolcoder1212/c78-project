@@ -1,5 +1,11 @@
 body {
     font-family: sans-serif;
     text-align: center;
+    background-color: rgb(174, 216, 105);
 }
-  
+
+img {
+    height: 300px;
+    width: 350px;
+    border: 10px ridge steelblue;
+}
